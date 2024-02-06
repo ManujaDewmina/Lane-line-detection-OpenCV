@@ -6,4 +6,4 @@
 
 ## Example
 
-https://github.com/ManujaDewmina/Lane-line-detection-OpenCV/assets/92631934/2780add2-7064-4cf8-a227-b6fcc213e686
+![Right_28_output](https://github.com/ManujaDewmina/Lane-line-detection-OpenCV/assets/92631934/45307193-05c3-464d-b12b-c601196751a6)
